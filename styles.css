@@ -1,6 +1,6 @@
 body { 
-    color: rgba(167, 129, 80, 0.938);
-    background:black;
+    color: rgba(201, 168, 126, 0.938);
+    background:rgba(0, 0, 0, 0.404);
     margin: 0px;
     font-family: "Merienda", cursive;
     margin-bottom: 100px;
@@ -10,11 +10,11 @@ header {
     border-bottom: solid 2px rgb(179, 153, 115);
     padding: 20px;
     font-size: 32px;
-    color: rgb(173, 149, 96);
+    color: rgb(209, 177, 109);
 }
 
 .chamada { 
-    background: rgb(122, 187, 171);
+    background: rgb(159, 207, 195);
     padding-bottom: 80px;
     padding-top: 8-px;
     display: flex;
