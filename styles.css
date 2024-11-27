@@ -1,13 +1,13 @@
 body { 
     color: rgba(201, 168, 126, 0.938);
-    background:rgba(0, 0, 0, 0.404);
+    background:rgb(134, 14, 14);
     margin: 0px;
     font-family: "Merienda", cursive;
     margin-bottom: 100px;
 }
 
 header { 
-    border-bottom: solid 2px rgb(179, 153, 115);
+    border-bottom: solid 2px rgb(24, 15, 1);
     padding: 20px;
     font-size: 32px;
     color: rgb(209, 177, 109);
