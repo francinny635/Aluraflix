@@ -1,0 +1,47 @@
+body { 
+    color: rgba(167, 129, 80, 0.938);
+    background:black;
+    margin: 0px;
+    font-family: "Merienda", cursive;
+    margin-bottom: 100px;
+}
+
+header { 
+    border-bottom: solid 2px rgb(179, 153, 115);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(173, 149, 96);
+}
+
+.chamada { 
+    background: rgb(122, 187, 171);
+    padding-bottom: 80px;
+    padding-top: 8-px;
+    display: flex;
+    justify-content: center;
+}
+
+. chamada-texto { 
+    margin-right: 5%;
+}
+
+h1 { 
+    font-size: 40px;
+}
+
+p {
+    font-size 20px;
+}
+
+.categoria-videos { 
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria { 
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
